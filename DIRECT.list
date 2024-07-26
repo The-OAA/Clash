@@ -7,3 +7,5 @@ DOMAIN,plex45.1percent.cloud
 #emby,直连
 DOMAIN,v.emby.cc
 DOMAIN,c.emby.cc
+#双ADG
+DOMAIN-KEYWORD,adguard-dns
