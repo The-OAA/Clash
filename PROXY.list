@@ -1,6 +1,6 @@
 # 代理列表
 
 #ody
-DOMAIN,cf.odysseyplus.site
+DOMAIN-SUFFIX,odysseyplus.site
 #Debian
 DOMAIN-KEYWORD,deb.debian
